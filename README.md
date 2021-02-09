@@ -1,4 +1,4 @@
-# nontechnical-blog
+# Nontechnical-Blog
 
 
 All is in issues.
