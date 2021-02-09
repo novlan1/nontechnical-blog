@@ -1,2 +1,5 @@
-# my-blog
-my-blog
+# nontechnical-blog
+
+
+Nontechnical blog is in issues.
+
