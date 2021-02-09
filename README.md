@@ -1,5 +1,5 @@
 # nontechnical-blog
 
 
-Nontechnical blog is in issues.
+All is in issues.
 
